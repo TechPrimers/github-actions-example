@@ -1,3 +1,2 @@
-# github-actions-example
-Github Actions Example
+# Github Actions Example
 - `.github/workflows/ci.yml` - Github Actions Workflow definition
